@@ -1,0 +1,7 @@
+Added Component: Designator=*(STM32F1M3C8T6)
+Added Component: Designator=SW(SW2)
+Added Pin To Net: NetName=12V Pin=SW-1
+Added Pin To Net: NetName=12V Pin=SW-2
+Added Member To Class: ClassName=loaptrung Member=Component * STM32F1M3C8T6
+Added Member To Class: ClassName=loaptrung Member=Component SW
+Added Room: Name=loaptrung

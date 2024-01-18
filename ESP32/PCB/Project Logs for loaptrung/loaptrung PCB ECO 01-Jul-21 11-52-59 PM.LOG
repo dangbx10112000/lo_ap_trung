@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=12V Pin=3V3-1
+Removed Pin From Net: NetName=12V Pin=5V-1
+Added Component: Designator=HD1(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD2(HED2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=SW?(SW4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=SW?-3
+Added Pin To Net: NetName=12VV Pin=3V3-1
+Added Pin To Net: NetName=12VV Pin=5V-1
+Added Pin To Net: NetName=12VV Pin=HD1-1
+Added Pin To Net: NetName=12VV Pin=HD1-2
+Added Pin To Net: NetName=12VV Pin=HD2-1
+Added Pin To Net: NetName=12VV Pin=HD2-2
+Added Pin To Net: NetName=12VV Pin=SW?-4
+Added Net: Name=12VV
+Added Member To Class: ClassName=loaptrung Member=Component HD1 Header 2
+Added Member To Class: ClassName=loaptrung Member=Component HD2 Header 2
+Added Member To Class: ClassName=loaptrung Member=Component SW? SW

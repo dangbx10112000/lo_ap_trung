@@ -1,0 +1,62 @@
+Change Component Designator: OldDesignator=IC1 NewDesignator=ESP32-DEVKIT V1
+Change component parameters: Designator = "12V"; Footprint = "HED2"; UniqueID = "\OSMLNRGM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Den"; Footprint = "HED2"; UniqueID = "\EAUJYYFN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "DHT11"; Footprint = "JP3"; UniqueID = "\XLOWYROB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Dong Co"; Footprint = "HED2"; UniqueID = "\IFRUVCUQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD1"; Footprint = "HED2"; UniqueID = "\PCGFCROK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "HD2"; Footprint = "HED2"; UniqueID = "\APWARDKC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Quat In"; Footprint = "HED2"; UniqueID = "\JXRTTQCC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Quat Out"; Footprint = "HED2"; UniqueID = "\CHVHUMPJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Change component parameters: Designator = "dc"; Footprint = "QTO-92"; UniqueID = "\VLCSCVDT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "denn"; Footprint = "QTO-92"; UniqueID = "\DTOJKBHV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "qi"; Footprint = "QTO-92"; UniqueID = "\XGHEJUBD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "qo"; Footprint = "QTO-92"; UniqueID = "\JATYTYAE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "C2383"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RLDC"; Footprint = "RL_SPDT_10A"; UniqueID = "\DVWTNMQG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RLQuatIn"; Footprint = "RL_SPDT_10A"; UniqueID = "\EDRSTIIU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RLQuatOut"; Footprint = "RL_SPDT_10A"; UniqueID = "\UHHEAWWP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Relay SPDT, 10A, 24V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Relay SPDT, 10A, 12V"; VariantName = "[No Variations]"
+Added Component: Designator=SW(SW2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=SW-1
+Added Pin To Net: NetName=12V Pin=SW-2
+Change Net Name : Old Net Name=NetIC1_24 New Net Name=NetESP32-DEVKIT V1_24
+Change Net Name : Old Net Name=NetIC1_26 New Net Name=NetESP32-DEVKIT V1_26
+Added Member To Class: ClassName=loaptrung Member=Component SW
+Added Room: Name=loaptrung

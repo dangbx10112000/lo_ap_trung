@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Netdc_1 Pin=dc-1
+Removed Pin From Net: NetName=NetDen_1 Pin=denn-1
+Removed Pin From Net: NetName=12VV Pin=RLDC-3
+Removed Pin From Net: NetName=12VV Pin=RLQuatIn-3
+Removed Pin From Net: NetName=12VV Pin=RLQuatOut-3
+Change Component Designator: OldDesignator=dc NewDesignator=denn
+Change Component Designator: OldDesignator=denn NewDesignator=dc
+Added Component: Designator=SW(SW2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Netdc_1 Pin=dc-1
+Added Pin To Net: NetName=NetDen_1 Pin=denn-1
+Added Pin To Net: NetName=12V Pin=RLDC-3
+Added Pin To Net: NetName=12V Pin=RLQuatIn-3
+Added Pin To Net: NetName=12V Pin=RLQuatOut-3
+Added Pin To Net: NetName=12V Pin=SW-1
+Added Pin To Net: NetName=12V Pin=SW-2
+Change Net Name : Old Net Name=Netdc_3 New Net Name=Netdenn_3
+Change Net Name : Old Net Name=Netdenn_3 New Net Name=Netdc_3
+Added Member To Class: ClassName=loaptrung Member=Component SW
+Added Room: Name=loaptrung

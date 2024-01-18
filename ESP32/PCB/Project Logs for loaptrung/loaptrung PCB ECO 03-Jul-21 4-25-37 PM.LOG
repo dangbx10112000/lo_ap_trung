@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=3V3-2
+Removed Pin From Net: NetName=GND Pin=3V3-3
+Removed Pin From Net: NetName=GND Pin=5V-2
+Removed Pin From Net: NetName=GND Pin=12V-1
+Removed Pin From Net: NetName=GND Pin=IC1-14
+Added Component: Designator=SW?(SW4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Button chip 4 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=SW?-3
+Added Pin To Net: NetName=12VV Pin=SW?-4
+Change Net Name : Old Net Name=GND New Net Name=GND5V
+Added Pin To Net: NetName=GND3V3 Pin=3V3-3
+Added Pin To Net: NetName=GND3V3 Pin=IC1-14
+Added Net: Name=GND3V3
+Added Pin To Net: NetName=GND12V Pin=3V3-2
+Added Pin To Net: NetName=GND12V Pin=5V-2
+Added Pin To Net: NetName=GND12V Pin=12V-1
+Added Net: Name=GND12V
+Added Member To Class: ClassName=loaptrung Member=Component SW? SW

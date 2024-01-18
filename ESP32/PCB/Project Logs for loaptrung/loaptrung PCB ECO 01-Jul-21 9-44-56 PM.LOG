@@ -1,0 +1,63 @@
+Added Component: Designator=220V AC(HED2)
+Added Component: Designator=Den(HED2)
+Added Component: Designator=Q1(QTO-92)
+Added Component: Designator=Q2(QTO-92)
+Added Component: Designator=Q3(QTO-92)
+Added Component: Designator=Q4(QTO-92)
+Added Component: Designator=RL1(RL_SPDT_10A)
+Added Component: Designator=RL2(RL_SPDT_10A)
+Added Component: Designator=RL3(RL_SPDT_10A)
+Added Component: Designator=RL4(RL_SPDT_10A)
+Added Pin To Net: NetName=A Pin=220V AC-2
+Added Pin To Net: NetName=A Pin=RL1-1
+Added Net: Name=A
+Added Pin To Net: NetName=GND Pin=RL1-4
+Added Pin To Net: NetName=GND Pin=RL2-4
+Added Pin To Net: NetName=GND Pin=RL3-4
+Added Pin To Net: NetName=GND Pin=RL4-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDen_1 Pin=Den-1
+Added Pin To Net: NetName=NetDen_1 Pin=RL1-3
+Added Net: Name=NetDen_1
+Added Pin To Net: NetName=NetIC1_24 Pin=IC1-24
+Added Pin To Net: NetName=NetIC1_24 Pin=Q4-3
+Added Net: Name=NetIC1_24
+Added Pin To Net: NetName=NetIC1_25 Pin=IC1-25
+Added Pin To Net: NetName=NetIC1_25 Pin=Q3-3
+Added Net: Name=NetIC1_25
+Added Pin To Net: NetName=NetIC1_26 Pin=IC1-26
+Added Pin To Net: NetName=NetIC1_26 Pin=Q2-3
+Added Net: Name=NetIC1_26
+Added Pin To Net: NetName=NetIC1_29 Pin=IC1-29
+Added Pin To Net: NetName=NetIC1_29 Pin=Q1-3
+Added Net: Name=NetIC1_29
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=RL1-5
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=RL2-5
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=RL3-5
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=RL4-5
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=O Pin=220V AC-1
+Added Pin To Net: NetName=O Pin=Den-2
+Added Net: Name=O
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=Q2-2
+Added Pin To Net: NetName=VCC Pin=Q3-2
+Added Pin To Net: NetName=VCC Pin=Q4-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=loaptrung Member=Component 220V AC Header 2
+Added Member To Class: ClassName=loaptrung Member=Component Den Header 2
+Added Member To Class: ClassName=loaptrung Member=Component Q1 C1815
+Added Member To Class: ClassName=loaptrung Member=Component Q2 C1815
+Added Member To Class: ClassName=loaptrung Member=Component Q3 C1815
+Added Member To Class: ClassName=loaptrung Member=Component Q4 C1815
+Added Member To Class: ClassName=loaptrung Member=Component RL1 Relay 10A/12V
+Added Member To Class: ClassName=loaptrung Member=Component RL2 Relay 10A/12V
+Added Member To Class: ClassName=loaptrung Member=Component RL3 Relay 10A/12V
+Added Member To Class: ClassName=loaptrung Member=Component RL4 Relay 10A/12V

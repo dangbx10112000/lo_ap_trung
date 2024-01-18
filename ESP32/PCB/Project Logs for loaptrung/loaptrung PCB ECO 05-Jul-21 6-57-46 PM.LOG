@@ -1,0 +1,7 @@
+Added Component: Designator=SW(SW2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=SW-1
+Added Pin To Net: NetName=12V Pin=SW-2
+Added Member To Class: ClassName=loaptrung Member=Component SW
+Added Room: Name=loaptrung

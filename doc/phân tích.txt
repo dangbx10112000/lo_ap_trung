@@ -1,0 +1,9 @@
+bài toán 1: ESP32-->Server
+kết nối đến server->Gửi data->sever nhận data->lưu vào database
+bài toán 2: Server--> ESP32
+kết nối đến server->gửi request đến server->server đọc dữ liệu từ database->server gửi data về esp32->esp32 giải mã và xử lý data
+bài toán 3: Server<---> Máy tính
+3.1: truy cập vào server->thực hiện lệnh điều khiển->cập nhật dữ liệu điều khiển trong database.
+3.2: kết nối với server-> server đọc dữ liệu nhiệt độ, độ ẩm từ database->gửi về máy tính
+
+===================https://www.youtube.com/watch?v=svcEktQsnDQ==========================
